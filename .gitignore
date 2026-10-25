@@ -1,0 +1,16 @@
+# Student working area and generated evidence
+labs/
+*.answers.local.json
+
+# Local answer-key state
+.dfir-from-scratch/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.venv/
+.coverage
